@@ -12,3 +12,12 @@
     position: relative;
     top:680px;
 }
+ul{ 
+    list-style-type: none;
+    position: relative;
+    top: -100px;
+    left: 20px;
+    font-size: 25px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
