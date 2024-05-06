@@ -1,0 +1,14 @@
+.image-list{
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+.image-container{
+    position: absolute;
+
+}
+
+.image-nono{
+    position: relative;
+    top: 500px;
+}

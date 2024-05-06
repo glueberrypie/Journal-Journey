@@ -1,0 +1,17 @@
+.text{
+    position:relative;
+    left: 50px;
+    list-style-type: none;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+}
+
+.image-container{
+    position: absolute;
+    top: 1000px;
+}
+
+.image-list{
+    position: relative;
+
+}

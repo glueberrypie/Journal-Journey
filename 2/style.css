@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.video{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    margin: 50px;
+}
+
+ul {
+    list-style-type: none;
+    position: relative;
+    top: 50px;
+    left: 50px;
+  }
+
+.image-container{
+    position: absolute;
+}

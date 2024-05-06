@@ -1,0 +1,14 @@
+.image-container{
+    position: absolute;
+}
+
+.nest-pics-1{
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+
+.image-next{
+    position: relative;
+    top:680px;
+}
