@@ -13,3 +13,8 @@ ul{
     left: 50px;
     margin: 50px;
 }
+.image-container{
+    position: absolute;
+    top: 100px;
+    left:100px;
+}
