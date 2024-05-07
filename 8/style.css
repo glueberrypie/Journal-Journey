@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, sans-serif;
+    
+}
+
+.nest-pics-1{
+    margin:30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.head{
+  width: 100%;
+  height: 100px;
+}
+
+
+ul {
+    list-style-type: none;
+    font-size: 12px;
+  }
